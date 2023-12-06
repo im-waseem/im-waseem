@@ -17,7 +17,7 @@
 
 - 👯 I’m open to collaborate on **Full Stack Web Development projects**
 
-- 📝 I regularly write articles on [my blog](waseemakram.hashnode.dev)
+- 📝 I regularly write articles on [my blog]  https://hashnode.com/@waseemakram
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js**
 
