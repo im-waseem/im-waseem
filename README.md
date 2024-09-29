@@ -1,81 +1,84 @@
-<h1 align="center">Hi there, I'm Waseem Akram 👋</h1>
-<h3 align="center">Passionate Full Stack Web Developer from India</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/im-waseem/im-waseem/main/assets/web-developer-banner.gif" alt="Web Developer Banner" width="100%"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=2986cc&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Waseem+Akram;Web+Dev+%26+Ops+Expert" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <a href="https://twitter.com/waseema76708271" target="blank">
-    <img src="https://img.shields.io/twitter/follow/waseema76708271?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/iamwaseem060396" target="blank">
-    <img src="https://img.shields.io/badge/-iamwaseem060396-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-- 🔭 I’m currently working at **Krazybee Service PVT LTD**
-
-- 🌱 I’m currently learning **Django, SQL, AWS, Python**
-
-- 👯 I’m open to collaborate on **Full Stack Web Development projects**
-
-- 📝 I regularly write articles on [my blog]  https://hashnode.com/@waseemakram
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js**
-
-- 📫 Reach me at **[waseemakraam060396@gmail.com](mailto:waseemakraam060396@gmail.com)**
-
-- 📱 WhatsApp: **[7022831935](tel:+917022831935)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/waseema76708271" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/iamwaseem060396" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
+  <a href="https://github.com/im-waseem">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F2&center=true&vCenter=true&width=435&lines=Senior+Operations+Executive;Full+Stack+Developer;Digital+Marketing+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Backend Skills:</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" />
-</p>
+With 6 years in digital marketing sales and 4 years in coding, I bring a unique blend of business acumen and technical expertise to the table. As a Senior Operations Executive at KreditBee and a passionate Full Stack Developer, I bridge the gap between technology and business processes. My goal is to leverage my diverse skill set to drive innovation, optimize operations, and deliver exceptional results.
 
-<h3 align="left">Learning:</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="AWS" width="40" height="40" />
-</p>
+## 💼 Professional Experience
 
-<h3 align="left">Tools:</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40" />
-</p>
+### Senior Operations Executive
+**KreditBee** | *March 15, 2021 - Present* | Bengaluru, Karnataka, India
 
-<h3 align="left">GitHub Stats:</h3>
+As a Recovery Agent at KreditBee, I am committed to assisting individuals in overcoming financial challenges and regaining control of their financial situations.
+
+**Key Responsibilities:**
+- 🤝 Engage with customers empathetically throughout the recovery process
+- 📊 Develop tailored repayment solutions
+- 💬 Leverage strong communication and negotiation skills
+- 📈 Optimize recovery processes for efficiency
+- 🔄 Collaborate with cross-functional teams
+
+## 🚀 Skills
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-waseem&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nodejs,nextjs,python,django,mongodb,sqlite,github,vscode&perline=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-waseem&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Digital_Marketing-FF6B6B?style=for-the-badge&logo=google-ads&logoColor=white" alt="Digital Marketing" />
+  <img src="https://img.shields.io/badge/Sales-4CAF50?style=for-the-badge&logo=salesforce&logoColor=white" alt="Sales" />
+  <img src="https://img.shields.io/badge/Operations-FFA500?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Operations" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=im-waseem&show_icons=true&theme=radical" alt="Waseem's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-waseem&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-waseem&theme=radical" alt="GitHub Profile Summary" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=im-waseem&theme=radical&no-frame=true&margin-w=15&column=4" alt="Waseem's GitHub Trophies" />
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamwaseem060396/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/WaseemA76708271">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/im-waseem">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-waseem&" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=im-waseem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
